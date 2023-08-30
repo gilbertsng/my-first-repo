@@ -1,5 +1,7 @@
-Nama    : Kevin Gilbert Sinaga
+Nama    : Kevin Ivan Eda Radhiyya
 
-NPM     : 22608260
+NPM     : 2201233210
+     
+Kelas   : PBP B
 
-Kelas   : PBP F
+Hobi    : Tidur
